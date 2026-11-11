@@ -1,0 +1,17 @@
+GatherTrailData
+===============
+
+MiningData.lua and HerbalismData.lua come, unmodified, from the GatherMate2_Data project
+(Classic copy: github.com/Thurdi/GatherMate2_Data_Classic; original project:
+github.com/Nevcairiel/GatherMate2) by kagaro, Xinhuan and Nevcairiel, distributed with
+GatherMate2 under the GNU General Public License, version 2 or later. The node positions
+were mined from Wowhead. All credit for the data goes to those authors.
+
+This package (the data and the .toc) is therefore licensed under GPL-2.0-or-later. See LICENSE.
+The GatherTrail addon (MIT) only reads the tables and is a separate project.
+
+Os arquivos MiningData.lua e HerbalismData.lua vêm, sem modificação, do projeto GatherMate2_Data
+(cópia Classic: github.com/Thurdi/GatherMate2_Data_Classic; projeto original:
+github.com/Nevcairiel/GatherMate2), de kagaro, Xinhuan e Nevcairiel, distribuídos junto do
+GatherMate2 sob a GNU GPL versão 2 ou posterior. As posições foram minadas do Wowhead.
+Este pacote é licenciado sob GPL-2.0-or-later. O addon GatherTrail (MIT) só lê as tabelas.

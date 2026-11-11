@@ -1,0 +1,6 @@
+package-as: GatherTrailData
+
+ignore:
+  - README.md
+  - workflow-template
+  - .gitattributes
