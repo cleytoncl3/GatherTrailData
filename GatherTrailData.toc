@@ -1,9 +1,9 @@
 ## Interface: 16001, 11508, 11509
 ## Title: GatherTrailData
-## Notes: Starter database of mining and herbalism locations (Classic) for GatherTrail. Data from GatherMate2_Data (Wowhead).
-## Notes-ptBR: Banco inicial de locais de minérios e ervas (Classic) para o GatherTrail. Dados do GatherMate2_Data (Wowhead).
-## Notes-esES: Base inicial de ubicaciones de minería y herboristería (Classic) para GatherTrail. Datos de GatherMate2_Data (Wowhead).
-## Notes-esMX: Base inicial de ubicaciones de minería y herboristería (Classic) para GatherTrail. Datos de GatherMate2_Data (Wowhead).
+## Notes: Starter database of mining and herbalism locations (Classic) for Trailsmith. Data from GatherMate2_Data (Wowhead).
+## Notes-ptBR: Banco inicial de locais de minérios e ervas (Classic) para o Trailsmith. Dados do GatherMate2_Data (Wowhead).
+## Notes-esES: Base inicial de ubicaciones de minería y herboristería (Classic) para Trailsmith. Datos de GatherMate2_Data (Wowhead).
+## Notes-esMX: Base inicial de ubicaciones de minería y herboristería (Classic) para Trailsmith. Datos de GatherMate2_Data (Wowhead).
 ## Author: kagaro, Xinhuan, Nevcairiel (original GatherMate2 data); packaged by cleytoncl3
 ## Version: 1.0.0
 ## LoadOnDemand: 1

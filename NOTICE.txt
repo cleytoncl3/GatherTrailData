@@ -8,4 +8,4 @@ GatherMate2 under the GNU General Public License, version 2 or later. The node p
 were mined from Wowhead. All credit for the data goes to those authors.
 
 This package (the data and the .toc) is therefore licensed under GPL-2.0-or-later. See LICENSE.
-The GatherTrail addon (MIT) only reads the tables and is a separate project.
+The Trailsmith addon (MIT) only reads the tables and is a separate project.
